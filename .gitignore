@@ -1,0 +1,5 @@
+node_modules/
+film/frames/
+film/out/
+film/.om/
+.DS_Store
